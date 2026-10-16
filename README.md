@@ -16,4 +16,4 @@ npm run dev
 
 ## StackBlitz
 
-https://stackblitz.com/~/github/aiao-io/rxdb-examples/tree/todo-vue
+https://stackblitz.com/~/github/aiao-io/rxdb-todo-vue
